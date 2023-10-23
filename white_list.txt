@@ -1,0 +1,16 @@
+@@||www.youtube.com^$important
+@@||s.youtube.com^$important
+@@||www.baidu.com^$important
+@@||gimg3.baidu.com^$important
+@@||accounts.youtube.com^$important
+@@||i.ytimg.com^$important
+@@||www.google.com^$important
+@@||jnn-pa.googleapis.com^$important
+@@||ggpht.com
+@@||content-autofill.googleapis.com^$important
+@@||googlevideo.com^$important
+@@||github.com^$important
+@@||githubassets.com^$important
+@@||collector.github.com^$important
+@@||avatars.githubusercontent.com^$important
+@@||api.github.com^$important
