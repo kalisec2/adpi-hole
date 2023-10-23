@@ -14,3 +14,4 @@
 @@||collector.github.com^$important
 @@||avatars.githubusercontent.com^$important
 @@||api.github.com^$important
+@@||ae01.alicdn.com^$important
