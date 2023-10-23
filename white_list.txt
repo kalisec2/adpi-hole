@@ -16,3 +16,4 @@
 @@||api.github.com^$important
 @@||ae01.alicdn.com^$important
 @@||lanzoui.com^$important
+@@||c.pc.qq.com^$important
