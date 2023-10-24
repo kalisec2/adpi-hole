@@ -17,3 +17,5 @@
 @@||ae01.alicdn.com^$important
 @@||lanzoui.com^$important
 @@||c.pc.qq.com^$important
+@@||mssdk3-normal-hl.zijieapi.com^$app=com.dragon.read,important
+@@||studio.youtube.com^$important
