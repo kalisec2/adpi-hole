@@ -33,3 +33,4 @@
 @@||jd.com^$important
 @@||tmall.com^$important
 @@||yicijiaoben.cn^$important
+@@||www.54114.com^$important
