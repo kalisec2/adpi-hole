@@ -32,3 +32,4 @@
 @@||xiaodao0.com^$important
 @@||jd.com^$important
 @@||tmall.com^$important
+@@||yicijiaoben.cn^$important
