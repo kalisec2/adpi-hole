@@ -36,3 +36,4 @@
 @@||www.54114.com^$important
 @@||54114.com^$important
 @@||sina.com.cn^$important
+@@||weibo.com^$important
