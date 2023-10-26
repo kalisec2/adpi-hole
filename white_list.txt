@@ -34,3 +34,4 @@
 @@||tmall.com^$important
 @@||yicijiaoben.cn^$important
 @@||www.54114.com^$important
+@@||54114.com/
