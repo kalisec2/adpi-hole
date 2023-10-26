@@ -24,3 +24,11 @@
 @@||puui.qpic.cn^$important
 @@||github.com^$important
 @@||raw.githubusercontent.com^$important
+@@||www.pcsoft.com.cn^$important
+@@||youtube.com^$important
+@@||jdssl.top^$important
+@@||taobao.com^$important
+@@||xd0.com^$important
+@@||xiaodao0.com^$important
+@@||jd.com^$important
+@@||tmall.com^$important
