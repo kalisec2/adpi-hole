@@ -192,3 +192,7 @@ lf9-common-ckv-tos.pstatp.com
 ||api-access.pangolin-sdk-toutiao.com^$app=com.dragon.read,important
 ||mssdk-bu.bytedance.com^$app=com.dragon.read,important
 ||ads5-normal-hl.zijieapi.com^$app=com.dragon.read
+||ds-x.jd.com^
+||xlog.jd.com^
+||janapi.jd.com^
+||api-access.pangolin-sdk-toutiao.com^
