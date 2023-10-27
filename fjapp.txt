@@ -196,3 +196,6 @@ lf9-common-ckv-tos.pstatp.com
 ||xlog.jd.com^
 ||janapi.jd.com^
 ||api-access.pangolin-sdk-toutiao.com^
+||et.tanx.com^
+||tobapplog.ctobsnssdk.com^
+||api-access.pangolin-sdk-toutiao.com^
