@@ -38,3 +38,8 @@
 @@||sina.com.cn^$important
 @@||weibo.com^$important
 @@||passport.weibo.com^$important
+@@||52zyw.com^$important
+@@||www.52zyw1.com^$important
+@@||sina.com.cn^$important
+@@||google.com^$important
+@@||accounts.google.com^$important
