@@ -43,3 +43,4 @@
 @@||sina.com.cn^$important
 @@||google.com^$important
 @@||accounts.google.com^$important
+@@||www.googleadservices.com^$important
