@@ -44,3 +44,8 @@
 @@||google.com^$important
 @@||accounts.google.com^$important
 @@||www.googleadservices.com^$important
+@@||pan.quark.cn^$important
+@@||data.bilibili.com^$important
+@@||caq98i.top^$important
+@@||www.ziyuanyo.com^$important
+@@||www.x6d.com^$important
