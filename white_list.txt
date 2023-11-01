@@ -1,6 +1,8 @@
 @@||www.youtube.com^$important
 @@||s.youtube.com^$important
 @@||www.baidu.com^$important
+@@||wwcdn.weixin.qq.com^$important
+@@||aegis.qq.com^$important
 @@||gimg3.baidu.com^$important
 @@||accounts.youtube.com^$important
 @@||i.ytimg.com^$important
