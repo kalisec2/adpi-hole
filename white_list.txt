@@ -52,3 +52,5 @@
 @@||www.ziyuanyo.com^$important
 @@||www.x6d.com^$important
 @@||www.geekxw.top^$important
+@@||cdn.bootcdn.net^$important
+@@||i.imnks.com^$important
