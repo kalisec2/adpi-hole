@@ -58,3 +58,4 @@
 @@||m.haozhuangji.com^$important
 @@||gonglv.bmcx.com^$important
 @@||www.chshcms.net^$important
+@@||cdn.bootcdn.net^$important
