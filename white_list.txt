@@ -54,3 +54,7 @@
 @@||www.geekxw.top^$important
 @@||cdn.bootcdn.net^$important
 @@||i.imnks.com^$important
+@@||ipv4toipv6.bmcx.com^$important
+@@||m.haozhuangji.com^$important
+@@||gonglv.bmcx.com^$important
+@@||www.chshcms.net^$important
