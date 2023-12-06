@@ -60,3 +60,4 @@
 @@||www.chshcms.net^$important
 @@||cdn.bootcdn.net^$important
 @@||hao.360.cn^$important
+@@||www.tweek.top^$important
