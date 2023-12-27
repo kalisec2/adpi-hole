@@ -70,4 +70,7 @@
 @@||im1907.top^$important
 @@||jx.jsonplayer.com^$important
 @@||jx.xxza.top^$important
+@@||scriptcat.org^$important
+@@||www.pc6.com^$important
+
 
