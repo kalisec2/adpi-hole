@@ -72,5 +72,8 @@
 @@||jx.xxza.top^$important
 @@||scriptcat.org^$important
 @@||www.pc6.com^$important
+@@||vv.video.qq.com^$important
+@@||jx.yangtu.top^$important
+@@||yangtu.top^$important
 
 
