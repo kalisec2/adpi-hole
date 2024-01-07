@@ -78,4 +78,7 @@
 @@||onezyh.blogspot.com^$important
 @@||adrules.top^$important
 @@||click.discord.com^$important
+@@||adrules.top^$important
+@@||click.discord.com^$important
+@@||tweek.top^$important
 
