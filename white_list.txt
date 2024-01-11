@@ -81,4 +81,9 @@
 @@||adrules.top^$important
 @@||click.discord.com^$important
 @@||tweek.top^$important
+@@||adrules.top^$important
+@@||click.discord.com^$important
+@@||tweek.top^$important
+@@||www.wdzzz.com^$important
+@@||gyfk12.kuaishang.cn^$important
 
