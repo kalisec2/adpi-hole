@@ -86,4 +86,6 @@
 @@||tweek.top^$important
 @@||www.wdzzz.com^$important
 @@||gyfk12.kuaishang.cn^$important
+@@||gyfk12.kuaishang.cn^$important
+@@||img14.360buyimg.com^$important
 
