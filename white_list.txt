@@ -104,3 +104,7 @@
 @@||api.xhofe.top^$important
 @@||linux.xiaosiseo.com^$important
 @@||login.bce.baidu.com^$important
+@@||bce.baidu.com^$important
+@@||console.bce.baidu.com^$important
+@@||fclog.baidu.com^$important
+
