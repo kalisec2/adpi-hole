@@ -94,3 +94,13 @@
 @@||obfuscator.io^$important
 @@||isedu.top^$important
 @@||linux.xiaosiseo.com^$important
+@@||sina.com.cn^$important
+@@||google.com^$important
+@@||accounts.google.com^$important
+@@||ds-x.jd.com^$important
+@@||xlog.jd.com^$important
+@@||janapi.jd.com^$important
+@@||api-access.pangolin-sdk-toutiao.com^$important
+@@||api.xhofe.top^$important
+@@||linux.xiaosiseo.com^$important
+@@||login.bce.baidu.com^$important
