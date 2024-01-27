@@ -107,4 +107,4 @@
 @@||bce.baidu.com^$important
 @@||console.bce.baidu.com^$important
 @@||fclog.baidu.com^$important
-
+@@||bk.songgongzi.top^$important
