@@ -108,3 +108,13 @@
 @@||console.bce.baidu.com^$important
 @@||fclog.baidu.com^$important
 @@||bk.songgongzi.top^$important
+@@||www.itcloud.top^$important
+@@||kejilion.blogspot.com^$important
+@@||cn.bing.com^$important
+@@||imo.onelink.me^$important
+@@||download.visualstudio.microsoft.com^$important
+@@||is.snssdk.com^$important
+@@||mcs.snssdk.com^$important
+@@||r1---sn-j5o76n7e.gvt1-cn.com^$important
+@@||wm.makeding.com^$important
+@@||51.la^$important
