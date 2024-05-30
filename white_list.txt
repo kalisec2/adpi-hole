@@ -118,4 +118,4 @@
 @@||r1---sn-j5o76n7e.gvt1-cn.com^$important
 @@||wm.makeding.com^$important
 @@||51.la^$important
-@@||*.51.la^$important
+@@||cnzz.com^$important
