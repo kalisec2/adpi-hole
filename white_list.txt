@@ -130,3 +130,4 @@
 @@||sdwan.pgyapi.com^$important
 @@||pgyapi-std.oray.net^$important
 @@||pgy-api.oray.com^$important
+@@||tpstelemetry.tencent.com^$important
