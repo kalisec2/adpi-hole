@@ -125,3 +125,8 @@
 @@||cc.911a.top^$important
 @@||agent.911p.cc^$important
 @@||blogspot.com^$important
+@@||pgy-std06.oray.net^$important
+@@||pgyapi-std.oray.net^$important
+@@||sdwan.pgyapi.com^$important
+@@||pgyapi-std.oray.net^$important
+@@||pgy-api.oray.com^$important
