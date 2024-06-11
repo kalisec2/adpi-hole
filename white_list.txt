@@ -131,3 +131,4 @@
 @@||pgyapi-std.oray.net^$important
 @@||pgy-api.oray.com^$important
 @@||tpstelemetry.tencent.com^$important
+@@||otheve.beacon.qq.com^$important
