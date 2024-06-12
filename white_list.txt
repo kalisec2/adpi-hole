@@ -132,3 +132,6 @@
 @@||pgy-api.oray.com^$important
 @@||tpstelemetry.tencent.com^$important
 @@||otheve.beacon.qq.com^$important
+@@||8.tlu.dl.delivery.mp.microsoft.com^$important
+@@||skill-note.blogspot.com^$important
+@@||midas.gtimg.cn^$important
