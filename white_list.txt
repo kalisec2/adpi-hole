@@ -135,3 +135,6 @@
 @@||8.tlu.dl.delivery.mp.microsoft.com^$important
 @@||skill-note.blogspot.com^$important
 @@||midas.gtimg.cn^$important
+@@||lovetoshare.top^$important
+@@||vercel-blog.sifulin.top^$important
+
