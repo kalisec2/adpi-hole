@@ -137,4 +137,24 @@
 @@||midas.gtimg.cn^$important
 @@||lovetoshare.top^$important
 @@||vercel-blog.sifulin.top^$important
+@@||lovetoshare.top^$important
+@@||vercel-blog.sifulin.top^$important
+@@||qing.qing.doutv999.top^$important
+@@||ps.ps.doutv999.top^$important
+@@||d1400e84.xrnpk9rzg.top^$important
+@@||kpstaticbj.wx.ckjr001.com^$important
+@@||assets.ckjr001.com^$important
+@@||up-hl.3g.qq.com^$important
+@@||yun-hl.3g.qq.com^$important
+@@||sdk.e.qq.com^$important
+@@||apmplus.volces.com^$important
+@@||thirdwx.qlogo.cn^$important
+@@||tracker.nyaa.uk^$important
+@@||pull-flv-f13.douyincdn.com^$important
+@@||log0-misc-lf.amemv.com^$important
+@@||tracker.leechers-paradise.org^$important
+@@||dig.bdurl.net^$important
+@@||tracker.blazing.de^$important
+@@||r2---sn-j5o7dn7l.gvt1-cn.com^$important
+@@||tk.oray.com^$important
 
