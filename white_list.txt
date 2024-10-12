@@ -189,3 +189,4 @@
 @@||update.pan.baidu.com^$important
 @@||static.mywot.com^$important
 @@||secure.mywot.com^$important
+@@||user-images.githubusercontent.com^$important
