@@ -180,3 +180,12 @@
 @@||app-research.play.t002.ottcn.com^$important
 @@||log-collector.cn-qingdao.log.aliyuncs.com^$important
 @@||cdn.staticfile.net^$important
+@@||nj.t.bcsp2p.baidu.com^$important
+@@||punch.p2p.qq.com^$important
+@@||r4---sn-j5o76n7l.gvt1-cn.com^$important
+@@||r2---sn-j5o76n7l.gvt1-cn.com^$important
+@@||redirector.gvt1.com^$important
+@@||analytics.api.mywot.com^$important
+@@||update.pan.baidu.com^$important
+@@||static.mywot.com^$important
+@@||secure.mywot.com^$important
