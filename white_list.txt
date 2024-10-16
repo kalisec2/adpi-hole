@@ -191,3 +191,4 @@
 @@||secure.mywot.com^$important
 @@||user-images.githubusercontent.com^$important
 @@||g.msn.com^$important
+@@||static.cloudflareinsights.com^$important
