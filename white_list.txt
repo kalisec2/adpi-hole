@@ -192,3 +192,4 @@
 @@||user-images.githubusercontent.com^$important
 @@||g.msn.com^$important
 @@||static.cloudflareinsights.com^$important
+@@||alivc-aio.cn-hangzhou.log.aliyuncs.com^$important
