@@ -194,3 +194,8 @@
 @@||static.cloudflareinsights.com^$important
 @@||alivc-aio.cn-hangzhou.log.aliyuncs.com^$important
 @@||cloudflareinsights.com^$important
+@@||sina.com.cn^$important
+@@||google.com^$important
+@@||accounts.google.com^$important
+@@||netapm.music.163.com^$important
+@@||www.laomaotao.net^$important
