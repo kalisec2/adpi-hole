@@ -199,3 +199,16 @@
 @@||accounts.google.com^$important
 @@||netapm.music.163.com^$important
 @@||www.laomaotao.net^$important
+@@||sina.com.cn^$important
+@@||google.com^$important
+@@||accounts.google.com^$important
+||ds-x.jd.com^
+||xlog.jd.com^
+||janapi.jd.com^
+||api-access.pangolin-sdk-toutiao.com^
+||api.xhofe.top^
+@@||xy124x236x62x66xy240ey940ye006y10yy115xy.mcdn.bilivideo.cn^$important
+@@||_4483._https.xy124x236x62x66xy240ey940ye006y10yy115xy.mcdn.bilivideo.cn^$important
+@@||www.ludashi.com^$important
+@@||cdn-img.ludashi.com^$important
+@@||download.liveupdate.fnnas.com^$important
