@@ -213,3 +213,4 @@
 @@||cdn-img.ludashi.com^$important
 @@||download.liveupdate.fnnas.com^$important
 @@||api.liveupdate.fnnas.com^$important
+@@||appcenter-static.fnnas.com^$important
