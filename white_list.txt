@@ -216,3 +216,4 @@
 @@||appcenter-static.fnnas.com^$important
 @@||event.fnnas.com^$important
 @@||api.liveupdate.fnnas.com^$important
+@@||aweme.snssdk.com^$important
