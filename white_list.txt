@@ -217,3 +217,7 @@
 @@||event.fnnas.com^$important
 @@||api.liveupdate.fnnas.com^$important
 @@||aweme.snssdk.com^$important
+@@||nsclick.baidu.com^$important
+@@||wan.baidu.com^$important
+@@||lf6-cdn-tos.bytecdntp.com^$important
+
