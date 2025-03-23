@@ -220,4 +220,11 @@
 @@||nsclick.baidu.com^$important
 @@||wan.baidu.com^$important
 @@||lf6-cdn-tos.bytecdntp.com^$important
+@@||111dj.com^
+@@||ac.dun.163.com^$important
+@@||sentry.music.163.com^$important
+@@||ac.dun.163.com^$important
+@@||erebor.douban.com^$important
+@@||_4397._https.push.douban.com^$important
+@@||push.douban.com^$important
 
