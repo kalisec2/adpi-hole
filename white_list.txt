@@ -236,3 +236,8 @@
 @@||push.douban.com^$important
 @@||zftksc-launches.appsflyersdk.com^$important
 @@||forter.com^$important
+@@||nex.163.com^$important
+@@||h5.analytics.126.net^$important
+@@||countly.mail.163.com^$important
+@@||bntrace.com^$important
+@@||sentry.io^$important
