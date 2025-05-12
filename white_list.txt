@@ -269,4 +269,11 @@
 @@||videocloud.cn-hangzhou.log.aliyuncs.com^$important
 @@||mcs.zijieapi.com^$important
 @@||cdn.staticfile.org^$important
-
+@@||mon.zijieapi.com^$important
+@@||bsync3-normal-hj.zijieapi.com^$important
+@@||img.jbzj.com^$important
+@@||static.jbzj.com^$important
+@@||common.jbzj.com^$important
+@@||analyticsnew.overwolf.com^$important
+@@||v10.events.data.microsoft.com^$important
+@@||sl-tk.oray.com^$important
